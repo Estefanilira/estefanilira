@@ -17,6 +17,20 @@
 <a href="https://www.linkedin.com/in/estefanilira-dev/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" style="border-radius: 30px" target="_blank"></a> 
  </div>
 
+### Skills:
+ <p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,sass,react,next,vite,nodejs,express,java,tailwind,styledcomponents,spring,mysql,postgresql,firebase,mongodb,bootstrap," />
+  </a>
+</p>
+
+### Tools:
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,github,vscode,vercel,figma,photoshop,notion,trello" />
+  </a>
+</p>
+
 
 
  <div align="center">
