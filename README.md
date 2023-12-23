@@ -20,7 +20,7 @@
 ### Skills:
  <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,sass,react,next,vite,nodejs,express,java,tailwind,styledcomponents,spring,mysql,postgresql,firebase,mongodb,bootstrap," />
+    <img src="https://skillicons.dev/icons?i=html,css,javascript,typescript,sass,react,next,vite,nodejs,express,java,tailwind,styledcomponents,spring,mysql,postgresql,firebase,mongodb,bootstrap,dotnet,c#," />
   </a>
 </p>
 
